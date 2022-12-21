@@ -1,0 +1,18 @@
+/* The code from lines 2-4 puts the title of the website in the center */ 
+
+.title{ 
+    text-align:center;
+}
+
+div {
+    color:red;
+    text-align: center;
+    background-color:black;
+}
+ body{
+       background:white;
+   
+ } 
+img{
+      width:560px;  
+}
